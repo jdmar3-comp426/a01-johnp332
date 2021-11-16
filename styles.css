@@ -1,0 +1,62 @@
+a{
+    display:block;
+    width: fit-content;
+    color: dodgerblue;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:visited {
+    color: #7700ff;
+}
+
+a:hover {
+    color: #000000;
+}
+
+p{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p.header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#thanoscar{
+    width: 30%;
+    margin-top: 1.5%;
+    border-radius: 25px;
+}
+
+h1, h2, h3, h4{
+    background-color: #80aef3;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-style: groove;
+    border-color:darkslategray;
+    font-size: 30px;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.related{
+    width: 315px;
+    margin-left: 125px;
+}
+
+p.caption{
+    text-align:center;
+    width: 400px;
+    display:inline-block;
+    margin-right: 72px;
+    margin-bottom: 50px;
+}
